@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @VIONYT
 - 👀 I’m interested in Books, Programming
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#, C++, Elixir
