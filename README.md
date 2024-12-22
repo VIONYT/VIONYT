@@ -37,4 +37,4 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-333333?style=flat&logo=youtube)](https://www.youtube.com/@VION0001)
 [![Twitch](https://img.shields.io/badge/-Twitch-333333?style=flat&logo=twitch)](https://www.twitch.tv/vionyt)
 [![X](https://img.shields.io/badge/-X-333333?style=flat&logo=x)](https://x.com/yt_vion)
-[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:yt.vion@gmail.com)
+[![E-Mail](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:yt.vion@gmail.com)
