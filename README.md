@@ -5,7 +5,7 @@
 ## About Me
 
 - 🌱 I’m currently learning **C#**
-- 👯 I’m looking to collaborate on **Private Gemeserver Systems for 4Story**
+- 👯 I’m looking to collaborate on **Private Gameserver Systems for 4Story**
 - 💬 Ask me about **Anime or Videogames**
 - 📫 How to reach me: **Discord: vionyt**
 
